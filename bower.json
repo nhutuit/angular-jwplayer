@@ -39,7 +39,7 @@
     "angular-sanitize": "~1.2.0",
     "angular-touch": "~1.2.0",
     "angular-route": "~1.2.0",
-    "jwplayer-mirror": "~6.7.4071"
+    "https://github.com/itnok/jwplayer-mirror.git": "~6.12.4956"
   },
   "devDependencies": {}
 }
